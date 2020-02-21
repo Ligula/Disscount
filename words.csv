@@ -1,3 +1,4 @@
-current_words,daily_goal,weekly_goal,total_words,due_date,curr_date,days_left
-2493,450,2500,10000,2020-03-20,2020-02-20,29
-
+current_words,daily_goal,weekly_goal,total_words,due_date,curr_date,days_left,file_type
+2751,500,2500,10000,2020-03-20,2020-02-21,28,pdf
+2751,500,2500,10000,2020-03-20,2020-02-21,28
+2751,500,2500,10000,2020-03-20,2020-02-21,28
